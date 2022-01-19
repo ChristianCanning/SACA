@@ -78,7 +78,7 @@ plugins:
 footer:
   links:
     - label: "GroupMe"
-      icon: "/assets/icons/groupme.svg"
+      icon: "fas fa-hashtag"
       url: "https://groupme.com/join_group/17519405/tBVdit"
     - label: "Instagram"
       icon: "fab fa-instagram-square"

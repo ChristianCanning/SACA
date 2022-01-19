@@ -6,11 +6,12 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-hashtag'></i> GroupMe"
+      url: "https://groupme.com/join_group/17519405/tBVdit"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Welcome to Students Against Cruelty to Animals! We are a student organization at UT Austin that provides a space
+  for individuals to socialize as well as contribute back to the community by advocating for veganism. To join and stay
+  updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"

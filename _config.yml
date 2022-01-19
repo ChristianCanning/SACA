@@ -78,11 +78,14 @@ plugins:
 footer:
   links:
     - label: "GroupMe"
-      icon: "fab fas fa-hashtag"
+      icon: "/assets/icons/groupme.svg"
       url: "https://groupme.com/join_group/17519405/tBVdit"
     - label: "Instagram"
-      icon: "fas fa-hashtag"
+      icon: "fab fa-instagram-square"
       url: "https://www.instagram.com/txsaca"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts

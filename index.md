@@ -13,14 +13,6 @@ excerpt: >
   for individuals to socialize as well as contribute back to the community by advocating for veganism. To join and stay
   updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
-  - url: "https://www.instagram.com/txsaca"
-    image_path: /assets/icons/instagram_logo.svg
-    #alt: ""
-    #title: "Our Instagram"
-    excerpt: "Follow our Instagram page to see important announcements!"
-    url: "https://www.instagram.com/txsaca"
-    btn_class: "btn--primary"
-    btn_label: "🔗 SACA Instagram"
   - image_path: /assets/icons/groupme_logo.svg
     #alt: ""
     #title: "Our GroupMe"
@@ -28,13 +20,14 @@ feature_row:
     url: "https://groupme.com/join_group/17519405/tBVdit"
     btn_class: "btn--primary"
     btn_label: "🔗 SACA GroupMe"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - url: "https://www.instagram.com/txsaca"
+    image_path: /assets/icons/instagram_logo.svg
+    #alt: ""
+    #title: "Our Instagram"
+    excerpt: "Follow our Instagram page to see important announcements!"
+    url: "https://www.instagram.com/txsaca"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "🔗 SACA Instagram"    
 ---
 
 {% include feature_row %}

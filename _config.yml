@@ -86,6 +86,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-instagram-square"
       url: "https://www.instagram.com/txsaca"
+    - label: "Email"
+      icon: "fas fa-envelope-square"
+      url: saca.active@gmail.com
 
 atom_feed:
   hide: true

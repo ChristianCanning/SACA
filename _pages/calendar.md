@@ -3,7 +3,13 @@ permalink: /calendar/
 title: "SACA Calendar"
 layout: default
 ---
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTitle=0&showTz=0&showCalendars=0&showTabs=0&showPrint=0&src=aTQ3NmdkMjVqMTAwc2xvaWdqbDBuZHVybmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zm5naTFlaG9iNjBjNHNqNXU2cmIzMzkyYmIzZ3F1aWpAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%238E24AA" style="border:solid 1px #777" width="95%" height="650" frameborder="0" scrolling="no" class="center"></iframe>
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="http://saca-calendar.herokuapp.com/calendar.ics"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
 
 <style>
 .center {

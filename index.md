@@ -14,19 +14,19 @@ excerpt: >
   updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
   - image_path: /assets/icons/instagram_logo.svg
-    alt: "customizable"
+    #alt: ""
     title: "Our Instagram"
     excerpt: "Follow our Instagram page to see important announcements!"
     url: "https://www.instagram.com/txsaca"
     btn_class: "btn--primary"
-    btn_label: "🔗SACA Instagram"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "🔗 SACA Instagram"
+  - image_path: /assets/icons/groupme_logo.svg
+    #alt: ""
+    title: "Our GroupMe"
+    excerpt: "Join our GroupMe to stay up-to-date with all of our club details!"
+    url: "https://groupme.com/join_group/17519405/tBVdit"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "🔗 SACA GroupMe"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"

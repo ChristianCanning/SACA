@@ -10,7 +10,7 @@ header:
       url: "https://groupme.com/join_group/17519405/tBVdit"
 excerpt: >
   Welcome to Students Against Cruelty to Animals! We are a student organization at UT Austin that provides a space
-  for individuals to socialize as well as contribute back to the community by advocating for veganism. To join and stay
+  for individuals to socialize as well as contribute back to the community by advocating for veganism. To stay
   updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
   - image_path: /assets/icons/groupme_logo.svg
@@ -32,7 +32,7 @@ feature_row:
     image_path: /assets/icons/googlecalendar_icon.svg
     #alt: ""
     #title: "Our Instagram"
-    excerpt: "Check our calendar to see planned events!"
+    excerpt: "Check out our calendar to see planned events!"
     btn_class: "btn--primary"
     btn_label: "🔗 SACA Calendar"      
 ---

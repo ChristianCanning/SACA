@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/wallpaper.webp
   actions:
     - label: "<i class='fas fa-hashtag'></i> GroupMe"
       url: "https://groupme.com/join_group/17519405/tBVdit"

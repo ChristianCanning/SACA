@@ -27,7 +27,14 @@ feature_row:
     excerpt: "Follow our Instagram page to see important announcements!"
     url: "https://www.instagram.com/txsaca"
     btn_class: "btn--primary"
-    btn_label: "🔗 SACA Instagram"    
+    btn_label: "🔗 SACA Instagram"
+  - url: "/calendar/"
+    image_path: /assets/icons/googlecalendar_icon.svg
+    #alt: ""
+    #title: "Our Instagram"
+    excerpt: "Check our calendar to see planned events!"
+    btn_class: "btn--primary"
+    btn_label: "🔗 SACA Calendar"      
 ---
 
 {% include feature_row %}

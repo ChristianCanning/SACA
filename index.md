@@ -13,16 +13,16 @@ excerpt: >
   for individuals to socialize as well as contribute back to the community by advocating for veganism. To join and stay
   updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
-  - image_path: /assets/icons/instagram_logo.svg
+  - image_path: /assets/icons/instagram_logo.png
     #alt: ""
-    title: "Our Instagram"
+    #title: "Our Instagram"
     excerpt: "Follow our Instagram page to see important announcements!"
     url: "https://www.instagram.com/txsaca"
     btn_class: "btn--primary"
     btn_label: "🔗 SACA Instagram"
   - image_path: /assets/icons/groupme_logo.svg
     #alt: ""
-    title: "Our GroupMe"
+    #title: "Our GroupMe"
     excerpt: "Join our GroupMe to stay up-to-date with all of our club details!"
     url: "https://groupme.com/join_group/17519405/tBVdit"
     btn_class: "btn--primary"

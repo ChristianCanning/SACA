@@ -13,13 +13,13 @@ excerpt: >
   for individuals to socialize as well as contribute back to the community by advocating for veganism. To join and stay
   updated with the latest events, please join our GroupMe linked below.<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/icons/instagram_logo.svg
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Our Instagram"
+    excerpt: "Follow our Instagram page to see important announcements!"
+    url: "https://www.instagram.com/txsaca"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "🔗SACA Instagram"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"

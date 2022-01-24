@@ -32,7 +32,7 @@ feature_row:
     image_path: /assets/icons/googlecalendar_icon.svg
     #alt: ""
     #title: "Our Instagram"
-    excerpt: "Check out our google calendar to see planned events!"
+    excerpt: "Check out our Google Calendar to see planned events!"
     btn_class: "btn--primary"
     btn_label: "🔗 SACA Calendar"      
 ---
